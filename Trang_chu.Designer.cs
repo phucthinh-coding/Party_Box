@@ -1,6 +1,6 @@
 ﻿namespace Party_Box
 {
-    partial class Form1
+    partial class Trang_chu
     {
         /// <summary>
         /// Required designer variable.

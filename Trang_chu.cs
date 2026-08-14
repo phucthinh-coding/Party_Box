@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Party_Box
 {
-    public partial class Form1 : Form
+    public partial class Trang_chu : Form
     {
-        public Form1()
+        public Trang_chu()
         {
             InitializeComponent();
         }
